@@ -1,1 +1,1 @@
-ID : 1 , CIN : cd1212 , Nom : gabbadi , Prenom : anas , Tel : 0999999
+ID : 1 , CIN : CD1212 , Nom : user , Prenom : user , Tel : 098754321

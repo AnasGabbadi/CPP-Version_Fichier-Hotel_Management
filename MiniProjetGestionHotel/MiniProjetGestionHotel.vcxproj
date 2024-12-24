@@ -127,12 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="class.h" />
+    <ClInclude Include="chambre.h" />
+    <ClInclude Include="client.h" />
+    <ClInclude Include="paiement.h" />
+    <ClInclude Include="reservation.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="client.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="paiement.cpp" />
+    <ClCompile Include="reservation.cpp" />
+    <ClCompile Include="chambre.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="chambres.txt" />
     <Text Include="clients.txt" />
     <Text Include="paiements.txt" />
     <Text Include="reservations.txt" />

@@ -1,1 +1,1 @@
-1,1,a,1222-12-12,1222-21-21,&
+ID : 1 , Client ID : 1 , Chambre ID : 1 , Date Arrivee : 2024-12-25 , Date Depart : 2024-12-30

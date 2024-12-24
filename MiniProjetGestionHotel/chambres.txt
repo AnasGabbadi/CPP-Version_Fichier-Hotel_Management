@@ -1,0 +1,4 @@
+ID: 1, Numero: A12, Type: Simple, Prix Par Nuit: 1000.00
+ID: 2, Numero: B34, Type: Double, Prix Par Nuit: 2000.00
+ID: 3, Numero: C56, Type: Familiale, Prix Par Nuit: 1000.00
+ID: 4, Numero: D78, Type: Simple, Prix Par Nuit: 3500.00
